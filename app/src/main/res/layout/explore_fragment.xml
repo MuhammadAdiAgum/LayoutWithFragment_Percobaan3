@@ -11,6 +11,6 @@
         android:text="Explore Fragment"
         android:textSize="20sp"
         android:textStyle="bold"
-        android:textColor="@color/light_grey"/>/>
+        android:textColor="@color/light_grey"/>
 </LinearLayout>
 
